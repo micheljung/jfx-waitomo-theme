@@ -1,0 +1,2 @@
+rootProject.name = 'jfx-waitomo-theme'
+include 'demo'
