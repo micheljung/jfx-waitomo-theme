@@ -1,10 +1,6 @@
 # JFX Waitomo Theme
 
-![Bintray](https://img.shields.io/bintray/v/micheljung/maven/jfx-waitomo-theme)
-[![GitHub issues](https://img.shields.io/github/issues/micheljung/jfx-waitomo-theme)](https://github.com/micheljung/jfx-waitomo-theme/issues)
-[![GitHub forks](https://img.shields.io/github/forks/micheljung/jfx-waitomo-theme)](https://github.com/micheljung/jfx-waitomo-theme/network)
-[![GitHub stars](https://img.shields.io/github/stars/micheljung/jfx-waitomo-theme)](https://github.com/micheljung/jfx-waitomo-theme/stargazers)
-
+[![Download](https://api.bintray.com/packages/micheljung/maven/jfx-waitomo-theme/images/download.svg) ](https://bintray.com/micheljung/maven/jfx-waitomo-theme/_latestVersion)
 
 ![Screenshot](media/screenshot.png)
 
