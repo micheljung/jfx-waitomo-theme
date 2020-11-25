@@ -31,7 +31,7 @@ public class Main {
 Get it via https://bintray.com/micheljung/maven/jfx-waimoto-theme/
 
 ```
-implementation 'ch.micheljung.waitomo:jfx-waitomo-theme:0.1.0'
+implementation 'ch.micheljung.waitomo:jfx-waitomo-theme:0.2.0'
 ```
 
 ## Important
