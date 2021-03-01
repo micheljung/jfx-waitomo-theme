@@ -37,3 +37,7 @@ implementation 'ch.micheljung.waitomo:jfx-waitomo-theme:0.2.0'
 ## Important
 
 Not all components have been styled yet.
+
+# Other Projects
+
+Works great with [fxstage](https://github.com/micheljung/fxstage)!
