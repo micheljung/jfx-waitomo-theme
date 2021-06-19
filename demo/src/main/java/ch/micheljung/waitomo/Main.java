@@ -1,6 +1,5 @@
 package ch.micheljung.waitomo;
 
-import ch.micheljung.jfxwaitomo.WaitomoTheme;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

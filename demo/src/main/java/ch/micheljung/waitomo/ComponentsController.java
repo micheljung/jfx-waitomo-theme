@@ -1,6 +1,5 @@
 package ch.micheljung.waitomo;
 
-import ch.micheljung.jfxwaitomo.WaitomoTheme;
 import javafx.application.Platform;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
