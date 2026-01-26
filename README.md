@@ -28,10 +28,14 @@ public class Main {
 
 ## Get It Now
 
-Get it via https://bintray.com/micheljung/maven/jfx-waimoto-theme/
-
 ```
-implementation 'ch.micheljung.waitomo:jfx-waitomo-theme:0.2.0'
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  implementation ''ch.micheljung.waitomo:jfx-waitomo-theme:0.2.0'
+}
 ```
 
 ## Important
